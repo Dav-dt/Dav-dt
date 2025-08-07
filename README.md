@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David!</h1>
-<h3 align="center">I'm a student interested in Computer Science.</h3>
+<!--<h1 align="center">Hi 👋, I'm David!</h1>
+<h3 align="center">I'm a student interested in Computer Science.</h3> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
