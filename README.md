@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm David and I'm a computer science student interested
+<p align="left">I'm a computer science student interested
 in learning new programming languages!</p>
 
 
@@ -28,3 +28,4 @@ in learning new programming languages!</p>
 
 
 ###
+
