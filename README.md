@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm David and I'm a computer science student intersted
+<p align="left">I'm David and I'm a computer science student interested
 in learning new programming languages!</p>
 
 
@@ -25,5 +25,6 @@ in learning new programming languages!</p>
   <img width="12" />
   <img src="./assets/linux.svg" height="40" alt="linux logo"  />
   <img width="12" />
+
 
 ###
